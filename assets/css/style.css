@@ -510,7 +510,7 @@ body {
   #CTA
 \*-----------------------------------*/
 
-.cta { background-color: var(--oxford-blue-1); }
+.cta { background-color: var(); }
 
 .cta-banner { margin-block-end: 50px; }
 
@@ -1229,7 +1229,7 @@ body {
 
 .icon1 {
   position: absolute;
-  bottom: 150px;
+  bottom: 100px;
   right: 20px;
   z-index: 999;
 }
